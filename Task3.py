@@ -6,7 +6,7 @@ import time
 #Chromedriver initialisation
 driver = webdriver.Chrome('D:\Selenium Practices\chromedriver-win64\chromedriver.exe')
 
-#Open the practice website which uses clickable dropdowns
+#Open the practice website \
 url = "https://www.tutorialspoint.com/selenium/practice/frames.php"
 driver.get(url)
 driver.maximize_window()
