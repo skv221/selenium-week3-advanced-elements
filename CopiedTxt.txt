@@ -1,0 +1,16 @@
+
+
+Drag and drop - demo 3
+This is an example of how you can use this script to create your own "drag'n drop applications".
+Capitals
+
+Oslo
+Stockholm
+Washington
+Copenhagen
+Seoul
+Rome
+Madrid
+ItalySpainNorwayDenmarkSouth KoreaSwedenUnited States
+Drag And Drop scripts from DHTMLGoodies.com
+
